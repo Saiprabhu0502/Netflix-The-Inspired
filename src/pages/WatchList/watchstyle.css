@@ -1,0 +1,18 @@
+.watch,
+.card-container {
+  margin-bottom: 0;
+  padding-bottom: 0;
+  border: 2px solid white;
+  border: none;
+  position: relative;
+  height: 9000px;
+  width: 100%;
+  top:50px
+}
+
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around; 
+  
+}

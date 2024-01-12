@@ -1,0 +1,64 @@
+{
+    "movies": [
+      {
+        "id": 1,
+        "title": "Movie 1",
+        "genre": "Action",
+        "image": "https://example.com/movie1.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Movie 2",
+        "genre": "Drama",
+        "image": "https://example.com/movie2.jpg"
+      }
+      
+    ],
+    "tvShows": [
+      {
+        "id": 1,
+        "name": "TV Show 1",
+        "genre": "Comedy",
+        "image": "https://example.com/tvshow1.jpg"
+      },
+      {
+        "id": 2,
+        "name": "TV Show 2",
+        "genre": "Sci-Fi",
+        "image": "https://example.com/tvshow2.jpg"
+      }
+      
+    ],
+    "favorites": [
+      {
+        "id": 1,
+        "mediaType": "movie",
+        "mediaId": 1,
+        "userId": 123
+      },
+      {
+        "id": 2,
+        "mediaType": "tv",
+        "mediaId": 1,
+        "userId": 123
+      }
+      
+    ],
+    "watchlist": [
+      {
+        "id": 1,
+        "mediaType": "movie",
+        "mediaId": 2,
+        "userId": 123
+      },
+      {
+        "id": 2,
+        "mediaType": "tv",
+        "mediaId": 2,
+        "userId": 123
+      }
+     
+    ]
+  
+  }
+  

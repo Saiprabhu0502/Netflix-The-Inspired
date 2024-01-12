@@ -1,0 +1,66 @@
+/* .container {
+    margin-top: 20px;
+  }
+  
+  .row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+  }
+.fav_class {
+    height: 1000px;
+    position: relative;
+    top: 200px;
+    color: white;
+}   */
+/* .hle {
+  height: 100%;
+  color: white;
+  height: 600px;
+} */
+.fav,
+.card-container {
+  margin-bottom: 0;
+  padding-bottom: 0;
+  border: 2px solid white;
+  border: none;
+  position: relative;
+  height: 9000px;
+  width: 100%;
+  top:50px
+}
+/* favstyle.css */
+
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around; 
+  
+}
+
+/* Style each card */
+.card-container .mov_card {
+  /* flex: 0 0 calc(33.33% - 40px);  */
+  margin-bottom: 20px; 
+}
+
+/* .mov_card {
+  height: 100px;
+  width: 75px;
+} */
+/* .carouselSection {
+  position: relative;
+  margin-bottom: 70px;
+  & > .contentWrapper {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 20px;
+  }
+  .carouselTitle {
+      font-size: 24px;
+      color: white;
+      font-weight: normal;
+  }
+} */
